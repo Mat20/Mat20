@@ -1,7 +1,7 @@
 # Matheus Souza Monteiro  
 
 
-[![Twitter](https://img.shields.io/twitter/url?label=ma1t9&logoColor=6633cc&style=social&url=https%3A%2F%2Ftwitter.com%2Fma1t9)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fma1t9)
+https://linktr.ee/matheusouzamonteiro
 
 matheusouza12@gmail.com
 
