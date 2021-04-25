@@ -2,13 +2,12 @@
 
 
 https://linktr.ee/matheusouzamonteiro
+https://www.buymeacoffee.com/matheusouzamon
 
-matheusouza12@gmail.com
 
 ##Sou Estudante de Sistema de Informação, sou apaixondo por programação, computador entre outros assim, procuro sempre aprender, novas tecnologia e nada de ambição é sim o "estudo" e o profissionalismo....
 
-##Atualmente estou trabalhando em aplicativos de front-end com React Native ou Reatc aplicativos de back-ende com APIs de NodesJs usando Express e aprendendo e me aventurando, em Kotlin, Python, PHP, Swift, Rust.
-
-##Estuando tambem UX/UI .... HTML/CSS
+##Atualmente, estou aprendendo e me aventurando, em Kotlin, Python(games, back_end), PHP, Swift, Rust
+##Estuando tambem UX/UI .... 
 
 
