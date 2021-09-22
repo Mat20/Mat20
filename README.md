@@ -52,7 +52,7 @@ I also love **UX Design** :heart_eyes:. I like to create beautiful interfaces to
 I have also worked with, **MongoDB**, **PHP**, **MySQL**, **Python** , **Godot**, and others.
 
 
-Agradecimentos [Rocketseat](https://rocketseat.com.br/)
+
 
 👩🏻‍💻 **Matheus Souza**
 
